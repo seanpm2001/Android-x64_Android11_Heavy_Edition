@@ -3,7 +3,7 @@
 
 # Android x64 project
 
-## Android 11x64 DeGoogled Edition
+## Android 11x64 Heavy Edition
 
 **Status:** `Not ready`
 
@@ -11,16 +11,14 @@
 - [ ] Build a bootloader
 - [ ] Make bootable
 - [ ] Create ISO image
+- [ ] Update programs
 - [ ] Update Linux Kernel
-- [ ] Delete all Google programs
-- [ ] Install [Candroid](https://github.com/seanpm2001/Candroid/) and all [Candroid programs](https://github.com/seanpm2001/Candroid/tree/main/Candroid-Catalogue/)
-- [ ] Install MicroG
-- [ ] Remove tracking code
-- [ ] Test to make sure everything works in DeGoogled mode
+- [ ] Test to make sure everything works in heavy mode
 - - [ ] Touchscreen support
 - - [ ] Networking support (Wi-Fi, Cellular, Bluetooth)
 - - [ ] Keyboard support
 - - [ ] Data storage
+- - [ ] Google account support
 - - [ ] Paid app support
 - - [ ] Difficult app check (Samsung SmartSwitch, Plants vs. Zombies 2, etc.)
 - - [ ] ETC
@@ -29,6 +27,6 @@
 
 ***
 
-**File version:** `1 (2022, Friday, December 2nd at 5:43 pm PST)`
+**File version:** `2 (2022, Friday, December 2nd at 10:54 pm PST)`
 
 ***
